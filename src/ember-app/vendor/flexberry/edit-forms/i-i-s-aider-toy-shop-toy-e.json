@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Toy",
+  "name": "IISAider_Toy_ShopToyE",
+  "className": "ToyE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-aider-toy-shop-toy",
+      "modelProjection": "ToyE"
+    }
+  ]
+}

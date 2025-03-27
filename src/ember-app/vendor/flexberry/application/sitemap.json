@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Aider_ toy_ shop",
+  "applicationTitle": "Aider_ toy_ shop",
+  "items": [
+    {
+      "link": null,
+      "menuName": "магазин-игрушек",
+      "caption": "Магазин игрушек",
+      "title": "Магазин игрушек",
+      "children": [
+        {
+          "link": "i-i-s-aider-toy-shop-toy-l",
+          "menuName": null,
+          "caption": "Игрушки",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

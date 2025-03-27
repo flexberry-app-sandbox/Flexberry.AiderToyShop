@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-aider-toy-shop-toy-e",
+  "editForm": "i-i-s-aider-toy-shop-toy-e",
+  "external": false,
+  "caption": "Toy",
+  "name": "IISAider_Toy_ShopToyL",
+  "className": "ToyL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-aider-toy-shop-toy",
+      "modelProjection": "ToyL"
+    }
+  ]
+}
